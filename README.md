@@ -52,3 +52,4 @@ The script provides a way to create event listeners for both mouse and keyboard 
 ---
 
 Feel free to explore and modify the code to suit your needs. It's a useful tool for capturing and responding to mouse and keyboard events in your Python programs.
+![Running GIF](  https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
